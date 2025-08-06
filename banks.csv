@@ -1,0 +1,16 @@
+Bank,Account Type,APY,Monthly Fee,ATM Fees,Student Friendly,Min Balance,Mobile Rating,No ATM Fees,Mobile App
+Ally,Savings,4.00,0,0,Yes,0,4.7,Yes,Yes
+Chase Total Checking,Checking,0.01,12,2.5,Yes,1500,4.5,No,Yes
+Discover Online Savings,Savings,4.25,0,0,No,0,4.6,Yes,Yes
+Capital One 360 Checking,Checking,0.10,0,0,Yes,0,4.8,Yes,Yes
+Wells Fargo Everyday Checking,Checking,0.01,10,2.5,No,500,4.3,No,Yes
+SoFi Checking & Savings,Hybrid,4.20,0,0,Yes,0,4.9,Yes,Yes
+PNC Virtual Wallet,Hybrid,0.02,7,2.5,Yes,0,4.4,No,Yes
+Citi Access Checking,Checking,0.01,10,2.5,Yes,0,4.2,No,Yes
+Marcus by Goldman Sachs,Savings,4.30,0,0,No,0,4.5,Yes,Yes
+Bank of America Advantage Plus,Checking,0.01,12,2.5,Yes,1000,4.3,No,Yes
+American Express High Yield,Savings,4.35,0,0,No,0,4.6,Yes,Yes
+TD Convenience Checking,Checking,0.01,15,2.5,Yes,100,4.3,No,Yes
+Varo Online Savings,Savings,5.00,0,0,Yes,0,4.7,Yes,Yes
+Axos Essential Checking,Checking,0.40,0,0,Yes,0,4.6,Yes,Yes
+Bluevine Business Checking,Checking,2.00,0,0,No,0,4.4,Yes,Yes
